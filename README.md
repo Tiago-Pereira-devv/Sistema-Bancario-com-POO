@@ -1,1 +1,1 @@
-# Projeto Criando um sistema bancário com POO
+# Projeto: Criando um sistema bancário com POO
